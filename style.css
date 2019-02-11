@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+/*header image slider custum design for specified height*/
+.carousel-item
+{
+	height: 500px;
+}
+
+.carousel-item img
+{
+	height: 500px;
+	min-height: 500px;
+}
+/*evetn page css*/
+#event
+{
+	margin: auto;
+	padding: 2px;
+}
+
+#Infrastructure, #Programs, #Contact-Us, #About
+{
+	background-color: #146A8C;
+	color: #FFFFFF;
+}
+.fa-graduation-cap, .fa-book, .fa-sync-alt
+{
+	color: #FFFFFF;
+}
